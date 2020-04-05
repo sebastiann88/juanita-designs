@@ -1,0 +1,75 @@
+/* General */
+
+section#content {
+    padding-top: 90px;
+}
+
+div.content-page {
+    padding-top: 3em;
+}
+
+/* Carousel */
+
+.slider-size {
+  height: 200px; 
+}
+
+section.carousel-default {
+    max-width: 87.7em;
+    width: 100%;
+    margin: 0 auto;
+}
+
+section.carousel-default div.carousel-inner {
+    height: 41.5em;
+}
+
+section.carousel-default div.carousel-caption {
+    top: 15em;
+}
+
+section.carousel-default div.carousel-caption p.desc {
+    font-size: 20px;
+    text-align: left;
+    line-height: 1.5;
+}
+
+section.carousel-default div.owl-buttons i.icon.ion-ios-arrow-thin-left,
+section.carousel-default div.owl-buttons i.icon.ion-ios-arrow-thin-right {
+    position: absolute;
+    top: 50%;
+    background-color: aliceblue;
+    border-radius: 50%;
+    padding: 0.15em;
+    width: 1.5em;
+    height: 1.5em;
+    color: black;
+}
+
+div.banner-slider-shop div.banner-info {
+    right: 0;
+}
+
+div.banner-slider-shop .owl-theme .owl-controls div.owl-pagination {
+    right: 0;
+    width: 100%;
+}
+
+section.home div.owl-theme .owl-controls .owl-buttons div {
+    top: 38%;
+}
+
+/* Products */
+
+h3.product-title {
+    margin-bottom: 0;
+}
+
+section.home div.product-price ins + p {
+    margin-top: 5px;
+}
+
+
+
+
+
